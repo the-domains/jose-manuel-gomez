@@ -1,0 +1,28 @@
+name: jose manuel gomez
+favicon: null
+layout_spectrum: 0.27901969058439136
+typography_spectrum: 0.5083422777242959
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.290071785915643
+  lightness: 0.09438644209876657
+  saturation: 0.6720618107356131
+  rhythmicContrast: 0.23360477318055928
+purpose: []
